@@ -16,7 +16,7 @@ BOOKINGS – Handle studio room and session bookings
 Each module supports basic CRUD (Create, Read, Update, Delete) operations 
 
 References & Assistance
-Several YouTube tutorials, official documentation, and online articles were referred to while developing this project, especially for React.js, Express.js, and MongoDB integration. Despite these references, some errors occurred during development. To resolve these issues, help was taken from a friend who is an experienced developer, who assisted with debugging and improving the implementation.
+Several YouTube tutorials, official documentation, and online articles were referred to while developing this project, especially for React.js, Express.js, and MongoDB integration. Despite these references, some errors occurred during development. To resolve these issues, help was taken from a friend (RINOY) who is an experienced developer, who assisted with debugging and improving the implementation.
 
 Conclusion
 The Music Studio Management System showcases the implementation of a full-stack web application using React.js, Node.js, Express.js, and MongoDB. This project helped enhance practical knowledge of REST APIs, database management, and frontend–backend integration.
@@ -28,6 +28,7 @@ https://youtu.be/_f7h6xQXiLA?si=OqyCVR2qTgm7BY5R
 https://youtu.be/ENrzD9HAZK4?si=NnTxdaqFgv9RGp9A
 https://youtu.be/CgkZ7MvWUAA?si=SoZSnYTrBzN4oQ01
 https://youtu.be/SqcY0GlETPk?si=-7qXJ8uDbBw6-Q2h
+
 
 
 
